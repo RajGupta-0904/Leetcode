@@ -1,21 +1,47 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int s=-1,e=-1;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==target){
-                s=i;
-                break;
+        int a=solve(nums,target);
+        int b=solve1(nums,target);
+        return new int []{a,b};
+    }
+    public static int solve(int [] nums,int k){
+        int ans=-1;
+        int i=0;
+        int j=nums.length-1;
+        while(i<=j){
+            int m=i+(j-i)/2;
+            if(nums[m]==k){
+                ans =m;
+                j=m-1;
+            }
+            else if(nums[m]>k){
+                // i=m+1;
+                j=m-1;
+            }
+            else{
+                // j=m-1;
+                i=m+1;
             }
         }
-        for(int i=nums.length-1;i>=0;i--){
-            if(nums[i]==target){
-                e=i;
-                break;
+        return ans;
+    }
+    public static int solve1(int [] nums,int k){
+        int ans1=-1;
+        int i=0;
+        int j=nums.length-1;
+        while(i<=j){
+            int m=i+(j-i)/2;
+            if(nums[m]==k){
+                ans1=m;
+                i=m+1;
+            }
+            else if(nums[m]>k){
+                j=m-1;
+            }
+            else{
+                i=m+1;;
             }
         }
-        int arr[]=new int[2];
-        arr[0]=s;arr[1]=e;
-        return arr;
-        
+        return ans1;
     }
 }
