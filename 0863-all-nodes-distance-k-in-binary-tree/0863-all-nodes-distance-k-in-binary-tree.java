@@ -63,6 +63,7 @@ class Pair {
 
 				if (rp.d == k) {
 					ans.add(rp.v);
+                    continue;
 				}
 
 				for (int nbrs : map.get(rp.v).keySet()) {
