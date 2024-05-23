@@ -3,8 +3,10 @@ class Solution {
          List<String> arr = new ArrayList<>();
         List<List<String>> brr = new ArrayList<>();
         solve(s,arr,brr);
-        return brr;
+         return brr;
+        
     }
+
     public static void solve(String ques,List<String> arr,List<List<String>> brr){
         if(ques.length()==0){
             brr.add(new ArrayList<>(arr));
@@ -14,7 +16,7 @@ class Solution {
             String part=ques.substring(0,i);
             if(ispalindrome(part)){
                 arr.add(part);
-                solve(ques.substring(i),arr,brr);
+            solve(ques.substring(i),arr,brr);
                 arr.remove(arr.size()-1);
             }    
         }
