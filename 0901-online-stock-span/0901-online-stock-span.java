@@ -1,7 +1,7 @@
 class StockSpanner {
     List<Integer>ll;
     public StockSpanner() {
-        ll=new ArrayList<>();
+     ll=new ArrayList<>();   
     }
     
     public int next(int price) {
