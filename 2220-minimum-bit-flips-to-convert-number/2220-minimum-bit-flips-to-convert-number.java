@@ -1,14 +1,11 @@
 class Solution {
     public int minBitFlips(int start, int goal) {
-        int ans=start^goal;
-        return a(ans);
-    }
-    public int a(int n ){
-        int c=0;
-        while(n>0){
-            n=n&(n-1);
-            c++;
+        int xor=start^goal;
+        int ans=0;
+        while(xor>0){
+            xor=xor&(xor-1);
+            ans++;
         }
-        return c;
+        return ans;
     }
 }
