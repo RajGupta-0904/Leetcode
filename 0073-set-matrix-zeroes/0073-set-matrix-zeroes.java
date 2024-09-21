@@ -1,34 +1,37 @@
 class Solution {
-    public void setZeroes(int[][] a) {
-         boolean r=false;
-        boolean c=false;
-        for(int i=0;i<a.length;i++){
-            for(int j=0;j<a[0].length;j++){
-                if(a[i][j]==0){
-                    if(i==0) r=true;
-                    if(j==0) c=true;
-                    a[i][0]=0;
-                    a[0][j]=0;
+    public void setZeroes(int[][] arr) {
+        int n =arr.length;
+        int m =arr[0].length;
+        boolean row=false;
+        boolean col=false;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(arr[i][j]==0){
+                    arr[i][0]=0;
+                    arr[0][j]=0;
+                    if(i==0) row=true;
+                    if(j==0) col=true;
                 }
-            }
-        }
-         for(int i=1;i<a.length;i++){
-            for(int j=1;j<a[0].length;j++){
-                if(a[i][0]==0||a[0][j]==0){
-                    a[i][j]=0;
-                }
-            }
-         }
-        if(r==true){
-            for(int i=0;i<a[0].length;i++){
-                a[0][i]=0;
-            }
-        }
-        if(c==true){
-            for(int i=0;i<a.length;i++){
-                a[i][0]=0;
             }
         }
         
+        for(int i=1;i<arr.length;i++){
+            for(int j=1;j<arr[0].length;j++){
+                if(arr[i][0]==0||arr[0][j]==0){
+                    arr[i][j]=0;
+                }
+            }
+         }
+        if(row){
+            for(int i=0;i<m;i++){
+                arr[0][i]=0;
+            }
+        }
+         if(col){
+            for(int i=0;i<n;i++){
+                arr[i][0]=0;
+            }
+        }
+        // return arr;
     }
 }
