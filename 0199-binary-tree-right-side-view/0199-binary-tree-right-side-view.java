@@ -14,20 +14,20 @@
  * }
  */
 class Solution {
-		int maxdepth=0;
+		
 	    public List<Integer> rightSideView(TreeNode root) {
 	        List<Integer>ll =new ArrayList<>();
 
-	        rightView(root,1,ll);
+	        rightView(root,0,ll);
 	        return ll;
 	    }
 	    public void rightView(TreeNode root,int cl,List<Integer>ll ) {
             if(root==null){
                 return;
             }	       
-            if(maxdepth<cl) {
+            if(ll.size()==cl) {
 	        	ll.add(root.val);
-	        	maxdepth=cl;
+	        
 	        }
 	        rightView(root.right, cl+1, ll);
 	        rightView(root.left, cl+1, ll);
