@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RajGupta-0904/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
