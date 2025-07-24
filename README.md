@@ -13,8 +13,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RajGupta-0904/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RajGupta-0904/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Simulation
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RajGupta-0904/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
