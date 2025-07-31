@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
+| [1010-powerful-integers](https://github.com/RajGupta-0904/Leetcode/tree/master/1010-powerful-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RajGupta-0904/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Math
+|  |
+| ------- |
+| [1010-powerful-integers](https://github.com/RajGupta-0904/Leetcode/tree/master/1010-powerful-integers) |
+## Enumeration
+|  |
+| ------- |
+| [1010-powerful-integers](https://github.com/RajGupta-0904/Leetcode/tree/master/1010-powerful-integers) |
 <!---LeetCode Topics End-->
