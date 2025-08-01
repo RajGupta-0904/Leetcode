@@ -1,7 +1,6 @@
 class Solution {
     public List<List<Integer>> generate(int r) {
-        
-        List<List<Integer>> ans=new ArrayList<>();
+          List<List<Integer>> ans=new ArrayList<>();
         for(int i=0;i<r;i++){
             int n=1;
              List<Integer> ll =new ArrayList<>();
@@ -13,6 +12,5 @@ class Solution {
             ll.clear();
         }
         return ans;
-     
     }
 }
