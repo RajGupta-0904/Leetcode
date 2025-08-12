@@ -40,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/RajGupta-0904/Leetcode/tree/master/0118-pascals-triangle) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajGupta-0904/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 <!---LeetCode Topics End-->
