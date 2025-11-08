@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RajGupta-0904/Leetcode/tree/master/0089-gray-code) |
 | [1010-powerful-integers](https://github.com/RajGupta-0904/Leetcode/tree/master/1010-powerful-integers) |
 ## Enumeration
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/RajGupta-0904/Leetcode/tree/master/0118-pascals-triangle) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajGupta-0904/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/RajGupta-0904/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/RajGupta-0904/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
