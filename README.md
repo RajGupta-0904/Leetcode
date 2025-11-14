@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/RajGupta-0904/Leetcode/tree/master/0394-decode-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RajGupta-0904/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Greedy
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RajGupta-0904/Leetcode/tree/master/0089-gray-code) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/RajGupta-0904/Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/RajGupta-0904/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
