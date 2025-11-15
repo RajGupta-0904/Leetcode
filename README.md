@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/RajGupta-0904/Leetcode/tree/master/0394-decode-string) |
+| [0726-number-of-atoms](https://github.com/RajGupta-0904/Leetcode/tree/master/0726-number-of-atoms) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RajGupta-0904/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Greedy
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
+| [0726-number-of-atoms](https://github.com/RajGupta-0904/Leetcode/tree/master/0726-number-of-atoms) |
 | [1010-powerful-integers](https://github.com/RajGupta-0904/Leetcode/tree/master/1010-powerful-integers) |
 ## Brainteaser
 |  |
@@ -55,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/RajGupta-0904/Leetcode/tree/master/0394-decode-string) |
+| [0726-number-of-atoms](https://github.com/RajGupta-0904/Leetcode/tree/master/0726-number-of-atoms) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/RajGupta-0904/Leetcode/tree/master/0394-decode-string) |
+## Sorting
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/RajGupta-0904/Leetcode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
