@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajGupta-0904/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/RajGupta-0904/Leetcode/tree/master/0118-pascals-triangle) |
+| [1260-shift-2d-grid](https://github.com/RajGupta-0904/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RajGupta-0904/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/RajGupta-0904/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/RajGupta-0904/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/RajGupta-0904/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Math
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/RajGupta-0904/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/RajGupta-0904/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
